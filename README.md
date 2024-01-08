@@ -10,3 +10,5 @@ The notebook requires 4 files to function, 3 of which require Splunk downloads, 
 
 ## Output
 The notebook will optionally output a `.csv` file with a name of the user's choosing, a `.csv` file extension is required at the end of the user-designated file name.
+
+Another optional output is a graph which displays the number of unique `trip_id`s that were tagged on a given revenue day.
